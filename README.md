@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Curry44424
 - 👀 I’m interested in app development ,Etherem smart contracts and blockchain 
 - 🌱 I’m currently learning coding full stack
-- 💞️ I’m looking to collaborate on  anything evolving basics of app develoment 
+- 💞️ I’m looking to collaborate on  anything evolving basics of app development 
 - 📫 How to reach me  email Mlewis4545@aol.com or get hub pages 
 
 <!---
