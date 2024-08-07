@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Curry44424
 - 👀 I’m interested in app development ,Etherem smart contracts and blockchain 
-- 🌱 I’m currently learning coding full stack
+- 🌱 building the WhatsHotapp
 - 💞️ I’m looking to collaborate on  anything evolving basics of app development 
 - 📫 How to reach me  email Mlewis4545@aol.com or githubpages 
    https://twitter.com/WALLA_MAJIC
