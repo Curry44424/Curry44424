@@ -4,7 +4,7 @@
 - 💞️ WhatsHotApp is a next-generation event management platform that uses cryptographic primitives to solve critical problems in event security, crowd control, and payment fraud prevention.
 
 ### Core Philosophy
-**"Everything as Ticket Purchase → Modular"**
+
 - Universal transaction primitive
 - Composable building blocks
 - Time-stamped payment model
